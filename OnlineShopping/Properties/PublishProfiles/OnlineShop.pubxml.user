@@ -12,6 +12,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="bin/Antlr3.Runtime.dll">
       <publishTime>07/26/2017 18:10:16</publishTime>
     </File>
+    <File Include="bin/Antlr3.Runtime.pdb">
+      <publishTime>07/26/2017 18:10:16</publishTime>
+    </File>
     <File Include="bin/EntityFramework.dll">
       <publishTime>07/26/2017 18:10:16</publishTime>
     </File>
@@ -28,7 +31,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/26/2017 18:10:16</publishTime>
     </File>
     <File Include="bin/OnlineShopping.dll">
-      <publishTime>07/31/2017 00:24:13</publishTime>
+      <publishTime>02/02/2019 13:04:23</publishTime>
+    </File>
+    <File Include="bin/OnlineShopping.pdb">
+      <publishTime>02/02/2019 13:04:23</publishTime>
     </File>
     <File Include="bin/roslyn/csc.exe">
       <publishTime>07/26/2017 18:10:16</publishTime>
@@ -265,7 +271,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/26/2017 18:10:10</publishTime>
     </File>
     <File Include="CSS/owl.carousel.css">
-      <publishTime>07/10/2015 08:13:00</publishTime>
+      <publishTime>10/07/2015 08:13:00</publishTime>
     </File>
     <File Include="CSS/stylesheet.css">
       <publishTime>07/26/2017 18:10:10</publishTime>
@@ -307,22 +313,22 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/13/2016 11:45:26</publishTime>
     </File>
     <File Include="Images/availIcon.png">
-      <publishTime>03/06/2016 13:38:06</publishTime>
+      <publishTime>06/03/2016 13:38:06</publishTime>
     </File>
     <File Include="Images/banner1.jpg">
-      <publishTime>02/06/2016 12:09:12</publishTime>
+      <publishTime>06/02/2016 12:09:12</publishTime>
     </File>
     <File Include="Images/banner11.jpg">
       <publishTime>05/31/2016 09:29:26</publishTime>
     </File>
     <File Include="Images/banner2.jpg">
-      <publishTime>02/06/2016 12:11:58</publishTime>
+      <publishTime>06/02/2016 12:11:58</publishTime>
     </File>
     <File Include="Images/banner3.jpg">
-      <publishTime>02/06/2016 12:13:00</publishTime>
+      <publishTime>06/02/2016 12:13:00</publishTime>
     </File>
     <File Include="Images/banner4.jpg">
-      <publishTime>02/06/2016 12:10:50</publishTime>
+      <publishTime>06/02/2016 12:10:50</publishTime>
     </File>
     <File Include="Images/bgImg.jpg">
       <publishTime>05/31/2016 13:30:34</publishTime>
@@ -331,7 +337,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/26/2017 18:10:12</publishTime>
     </File>
     <File Include="Images/blankimg1.jpg">
-      <publishTime>04/07/2016 10:30:08</publishTime>
+      <publishTime>07/04/2016 10:30:08</publishTime>
     </File>
     <File Include="Images/blankimg22.jpg">
       <publishTime>07/26/2017 18:10:12</publishTime>
@@ -382,13 +388,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/24/2015 08:27:44</publishTime>
     </File>
     <File Include="Images/close-img11.png">
-      <publishTime>01/12/2015 17:28:36</publishTime>
+      <publishTime>12/01/2015 17:28:36</publishTime>
     </File>
     <File Include="Images/close-img_Round.png">
       <publishTime>11/24/2015 08:27:46</publishTime>
     </File>
     <File Include="Images/closebtn.png">
-      <publishTime>09/06/2016 07:58:22</publishTime>
+      <publishTime>06/09/2016 07:58:22</publishTime>
     </File>
     <File Include="Images/contactBG.jpg">
       <publishTime>06/06/2016 15:16:40</publishTime>
@@ -397,22 +403,22 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/24/2016 17:48:52</publishTime>
     </File>
     <File Include="Images/detailspic.jpg">
-      <publishTime>09/06/2016 09:53:38</publishTime>
+      <publishTime>06/09/2016 09:53:38</publishTime>
     </File>
     <File Include="Images/doublearrow.png">
-      <publishTime>08/06/2016 14:44:56</publishTime>
+      <publishTime>06/08/2016 14:44:56</publishTime>
     </File>
     <File Include="Images/down14.png">
       <publishTime>05/27/2016 12:20:04</publishTime>
     </File>
     <File Include="Images/downCaret.png">
-      <publishTime>01/01/0001 00:00:00</publishTime>
+      <publishTime>05/31/2016 09:24:00</publishTime>
     </File>
     <File Include="Images/drop.png">
-      <publishTime>03/06/2016 12:18:02</publishTime>
+      <publishTime>06/03/2016 12:18:02</publishTime>
     </File>
     <File Include="Images/dropcalIcon.png">
-      <publishTime>03/06/2016 12:15:28</publishTime>
+      <publishTime>06/03/2016 12:15:28</publishTime>
     </File>
     <File Include="Images/edit-icon.png">
       <publishTime>11/24/2015 08:27:44</publishTime>
@@ -439,7 +445,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/31/2016 12:18:16</publishTime>
     </File>
     <File Include="Images/fb.png">
-      <publishTime>01/06/2016 08:13:46</publishTime>
+      <publishTime>06/01/2016 08:13:46</publishTime>
     </File>
     <File Include="Images/flag_bn.png">
       <publishTime>05/24/2016 17:14:46</publishTime>
@@ -454,10 +460,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/24/2016 17:14:46</publishTime>
     </File>
     <File Include="Images/gridIcon.png">
-      <publishTime>03/06/2016 14:07:50</publishTime>
+      <publishTime>06/03/2016 14:07:50</publishTime>
     </File>
     <File Include="Images/gridIconclr.png">
-      <publishTime>07/06/2016 16:28:50</publishTime>
+      <publishTime>06/07/2016 16:28:50</publishTime>
     </File>
     <File Include="Images/HomePageBanner1.png">
       <publishTime>07/31/2017 00:14:33</publishTime>
@@ -469,13 +475,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/31/2016 16:42:10</publishTime>
     </File>
     <File Include="Images/listIcon.png">
-      <publishTime>03/06/2016 14:08:24</publishTime>
+      <publishTime>06/03/2016 14:08:24</publishTime>
     </File>
     <File Include="Images/listIconclr.png">
-      <publishTime>07/06/2016 16:29:44</publishTime>
+      <publishTime>06/07/2016 16:29:44</publishTime>
     </File>
     <File Include="Images/location.png">
-      <publishTime>03/06/2016 15:20:42</publishTime>
+      <publishTime>06/03/2016 15:20:42</publishTime>
     </File>
     <File Include="Images/location1.png">
       <publishTime>07/26/2017 18:10:12</publishTime>
@@ -487,13 +493,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/31/2017 00:03:24</publishTime>
     </File>
     <File Include="Images/loginlock.png">
-      <publishTime>09/06/2016 08:19:34</publishTime>
+      <publishTime>06/09/2016 08:19:34</publishTime>
     </File>
     <File Include="Images/loginmsg.png">
-      <publishTime>09/06/2016 08:18:48</publishTime>
+      <publishTime>06/09/2016 08:18:48</publishTime>
     </File>
     <File Include="Images/msgg.png">
-      <publishTime>03/06/2016 15:36:26</publishTime>
+      <publishTime>06/03/2016 15:36:26</publishTime>
     </File>
     <File Include="Images/next-arrow-list.png">
       <publishTime>05/24/2016 17:14:46</publishTime>
@@ -538,40 +544,40 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/26/2017 18:10:12</publishTime>
     </File>
     <File Include="Images/person_1.jpg">
-      <publishTime>03/06/2016 14:57:02</publishTime>
+      <publishTime>06/03/2016 14:57:02</publishTime>
     </File>
     <File Include="Images/person_10.jpg">
-      <publishTime>03/06/2016 16:15:16</publishTime>
+      <publishTime>06/03/2016 16:15:16</publishTime>
     </File>
     <File Include="Images/person_11.jpg">
-      <publishTime>03/06/2016 16:15:44</publishTime>
+      <publishTime>06/03/2016 16:15:44</publishTime>
     </File>
     <File Include="Images/person_12.jpg">
-      <publishTime>03/06/2016 16:17:08</publishTime>
+      <publishTime>06/03/2016 16:17:08</publishTime>
     </File>
     <File Include="Images/person_2.jpg">
-      <publishTime>03/06/2016 15:58:00</publishTime>
+      <publishTime>06/03/2016 15:58:00</publishTime>
     </File>
     <File Include="Images/person_3.jpg">
-      <publishTime>03/06/2016 15:58:50</publishTime>
+      <publishTime>06/03/2016 15:58:50</publishTime>
     </File>
     <File Include="Images/person_4.jpg">
-      <publishTime>03/06/2016 16:02:34</publishTime>
+      <publishTime>06/03/2016 16:02:34</publishTime>
     </File>
     <File Include="Images/person_5.jpg">
-      <publishTime>03/06/2016 16:03:04</publishTime>
+      <publishTime>06/03/2016 16:03:04</publishTime>
     </File>
     <File Include="Images/person_6.jpg">
-      <publishTime>03/06/2016 16:04:18</publishTime>
+      <publishTime>06/03/2016 16:04:18</publishTime>
     </File>
     <File Include="Images/person_7.jpg">
-      <publishTime>03/06/2016 16:12:58</publishTime>
+      <publishTime>06/03/2016 16:12:58</publishTime>
     </File>
     <File Include="Images/person_8.jpg">
-      <publishTime>03/06/2016 16:13:26</publishTime>
+      <publishTime>06/03/2016 16:13:26</publishTime>
     </File>
     <File Include="Images/person_9.jpg">
-      <publishTime>03/06/2016 16:14:02</publishTime>
+      <publishTime>06/03/2016 16:14:02</publishTime>
     </File>
     <File Include="Images/plus-icon.png">
       <publishTime>07/26/2017 18:10:12</publishTime>
@@ -598,25 +604,25 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/31/2016 15:02:22</publishTime>
     </File>
     <File Include="Images/rightarrow1.png">
-      <publishTime>02/06/2016 09:48:16</publishTime>
+      <publishTime>06/02/2016 09:48:16</publishTime>
     </File>
     <File Include="Images/searchIcon.png">
       <publishTime>05/31/2016 11:38:16</publishTime>
     </File>
     <File Include="Images/service_detail_1.jpg">
-      <publishTime>09/06/2016 13:07:12</publishTime>
+      <publishTime>06/09/2016 13:07:12</publishTime>
     </File>
     <File Include="Images/service_detail_2.jpg">
-      <publishTime>09/06/2016 13:07:48</publishTime>
+      <publishTime>06/09/2016 13:07:48</publishTime>
     </File>
     <File Include="Images/slider-mover.png">
-      <publishTime>03/06/2016 11:39:06</publishTime>
+      <publishTime>06/03/2016 11:39:06</publishTime>
     </File>
     <File Include="Images/sliderLeftarrow.png">
-      <publishTime>03/06/2016 09:31:30</publishTime>
+      <publishTime>06/03/2016 09:31:30</publishTime>
     </File>
     <File Include="Images/sliderRightarrow.png">
-      <publishTime>03/06/2016 09:32:46</publishTime>
+      <publishTime>06/03/2016 09:32:46</publishTime>
     </File>
     <File Include="Images/sort_asc.png">
       <publishTime>05/24/2016 10:57:20</publishTime>
@@ -799,7 +805,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/26/2017 18:10:14</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>07/31/2017 00:32:32</publishTime>
+      <publishTime>02/02/2019 21:02:16</publishTime>
     </File>
   </ItemGroup>
 </Project>
