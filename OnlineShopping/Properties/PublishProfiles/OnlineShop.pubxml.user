@@ -31,10 +31,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/26/2017 18:10:16</publishTime>
     </File>
     <File Include="bin/OnlineShopping.dll">
-      <publishTime>02/02/2019 13:04:23</publishTime>
+      <publishTime>02/02/2019 13:15:02</publishTime>
     </File>
     <File Include="bin/OnlineShopping.pdb">
-      <publishTime>02/02/2019 13:04:23</publishTime>
+      <publishTime>02/02/2019 13:15:02</publishTime>
     </File>
     <File Include="bin/roslyn/csc.exe">
       <publishTime>07/26/2017 18:10:16</publishTime>
@@ -102,7 +102,337 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="Content/bootstrap.min.css">
       <publishTime>07/26/2017 18:10:10</publishTime>
     </File>
+    <File Include="Content/ProductImage/Large/10_pi4.jpg">
+      <publishTime>07/30/2017 02:14:19</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Large/1_Penguins.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Large/2_Penguins.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Large/2_samsung-galaxy-on5-spotted-1.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Large/3_download %281%29.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Large/3_Jellyfish.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Large/4_download.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Large/4_Tulips.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Large/5_3_download %281%29.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Large/5_expert3.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Large/6_images.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Large/7_Htc-Desire-516-white--SDL232582179-1-71d4a.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Large/8_11.png">
+      <publishTime>07/26/2017 23:32:19</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Large/8_50.png">
+      <publishTime>07/26/2017 23:27:54</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Large/8_cofee3.jpg">
+      <publishTime>07/26/2017 23:36:31</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Large/8_mobiles-c59b1ba6cb951bf85cbb9c06f1cc31dc.png">
+      <publishTime>07/26/2017 19:25:36</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Large/9_pi4.jpg">
+      <publishTime>07/30/2017 02:13:34</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Large/Htc-Desire-516-white--SDL232582179-1-71d4a.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Large/images %281%29.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Large/images.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Large/mobile-dev4.png">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Large/ubuntu-mobile-os-1.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Medium/10_pi4.jpg">
+      <publishTime>07/30/2017 02:14:19</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Medium/1_Penguins.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Medium/2_Penguins.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Medium/2_samsung-galaxy-on5-spotted-1.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Medium/3_download %281%29.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Medium/3_Jellyfish.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Medium/4_download.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Medium/4_Tulips.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Medium/5_3_download %281%29.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Medium/5_expert3.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Medium/6_images.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Medium/7_Htc-Desire-516-white--SDL232582179-1-71d4a.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Medium/8_11.png">
+      <publishTime>07/26/2017 23:32:19</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Medium/8_50.png">
+      <publishTime>07/26/2017 23:27:54</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Medium/8_cofee3.jpg">
+      <publishTime>07/26/2017 23:36:31</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Medium/8_mobiles-c59b1ba6cb951bf85cbb9c06f1cc31dc.png">
+      <publishTime>07/26/2017 19:25:36</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Medium/9_pi4.jpg">
+      <publishTime>07/30/2017 02:13:34</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Small/10_pi4.jpg">
+      <publishTime>07/30/2017 02:14:19</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Small/1_Penguins.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Small/2_Penguins.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Small/2_samsung-galaxy-on5-spotted-1.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Small/3_download %281%29.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Small/3_Jellyfish.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Small/4_download.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Small/4_Tulips.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Small/5_3_download %281%29.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Small/5_expert3.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Small/6_images.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Small/7_Htc-Desire-516-white--SDL232582179-1-71d4a.jpg">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Small/8_11.png">
+      <publishTime>07/26/2017 23:32:19</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Small/8_50.png">
+      <publishTime>07/26/2017 23:27:54</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Small/8_cofee3.jpg">
+      <publishTime>07/26/2017 23:36:31</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Small/8_mobiles-c59b1ba6cb951bf85cbb9c06f1cc31dc.png">
+      <publishTime>07/26/2017 19:25:36</publishTime>
+    </File>
+    <File Include="Content/ProductImage/Small/9_pi4.jpg">
+      <publishTime>07/30/2017 02:13:34</publishTime>
+    </File>
     <File Include="Content/Site.css">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_flat_75_ffffff_40x100.png">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_65_ffffff_1x400.png">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_75_dadada_1x400.png">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_95_fef1ec_1x400.png">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_222222_256x240.png">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_2e83ff_256x240.png">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_454545_256x240.png">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_888888_256x240.png">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_cd0a0a_256x240.png">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery-ui.css">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.accordion.css">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.all.css">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.autocomplete.css">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.base.css">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.button.css">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.core.css">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.datepicker.css">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.dialog.css">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.progressbar.css">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.resizable.css">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.selectable.css">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.slider.css">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.tabs.css">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.theme.css">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_flat_0_aaaaaa_40x100.png">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_flat_75_ffffff_40x100.png">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_glass_55_fbf9ee_1x400.png">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_glass_65_ffffff_1x400.png">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_glass_75_dadada_1x400.png">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_glass_75_e6e6e6_1x400.png">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_glass_95_fef1ec_1x400.png">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_highlight-soft_75_cccccc_1x100.png">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-icons_222222_256x240.png">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-icons_2e83ff_256x240.png">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-icons_454545_256x240.png">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-icons_888888_256x240.png">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-icons_cd0a0a_256x240.png">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery-ui.min.css">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.accordion.min.css">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.autocomplete.min.css">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.button.min.css">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.core.min.css">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.datepicker.min.css">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.dialog.min.css">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.progressbar.min.css">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.resizable.min.css">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.selectable.min.css">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.slider.min.css">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.tabs.min.css">
+      <publishTime>07/26/2017 18:10:10</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.theme.min.css">
       <publishTime>07/26/2017 18:10:10</publishTime>
     </File>
     <File Include="CSS/adminfonts/roboto-bold-webfont.eot">
